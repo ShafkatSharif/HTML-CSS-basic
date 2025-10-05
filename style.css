@@ -1,0 +1,48 @@
+body {
+    margin: 20px;
+}
+
+.cmain {
+    display: flex;
+    padding: 50px;
+    background-color: #ddebf8;
+    margin: 150px 0 0 300px;
+    width: 800px;
+    height: 300px;
+    box-shadow: 0 10px 0 rgba(7, 128, 9, 0.477);
+}
+
+.c1 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-left: 50px;
+    gap: 10px;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+    display: block;
+    object-fit: cover;
+    box-shadow: 0 10px 10px rgba(7, 128, 9, 0.477);
+
+}
+
+/* moved from inline HTML */
+.c1 h3 {
+    font-size: 50px;
+}
+
+.c1 p {
+    font-size: 30px;
+
+}
+
+.c1 h4 {
+    font-size: 20px;
+
+
+}
