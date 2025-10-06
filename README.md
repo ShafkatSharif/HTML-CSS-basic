@@ -1,3 +1,4 @@
+# Just a Card
 # Profile Card
 
 A simple profile card layout built with semantic HTML and modern CSS. The card presents a person's photo alongside their role and location, making it perfect for a quick LinkedIn-like introduction or portfolio snippet.
